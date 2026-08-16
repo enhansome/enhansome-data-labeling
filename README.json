@@ -14,7 +14,7 @@
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25065
+            "stars": 25060
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:41:44Z",
+            "last_commit": "2026-08-16T09:15:04Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16528
+            "stars": 16531
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-08T02:53:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16103
+            "stars": 16104
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-08-15T14:50:41Z",
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3557
+            "stars": 3558
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-10T05:53:53Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10373
+            "stars": 10374
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2025-11-08T03:09:27Z",
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3403
+            "stars": 3404
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-08-14T16:17:37Z",
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1962
+            "stars": 1963
           }
         },
         {
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:34:04.789Z",
+    "last_updated": "2026-08-16T15:35:12.686Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
     "enhanced_repository": "enhansome/enhansome-data-labeling",
