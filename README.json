@@ -14,7 +14,7 @@
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25061
+            "stars": 25060
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T15:24:54Z",
+            "last_commit": "2026-08-18T15:19:12Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16538
+            "stars": 16541
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T13:43:15Z",
+            "last_commit": "2026-08-18T15:11:58Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16108
+            "stars": 16109
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2021-12-06T21:10:56Z",
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4429
+            "stars": 4428
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-08-15T14:50:41Z",
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3559
+            "stars": 3560
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2024-01-01T11:36:16Z",
+            "last_commit": "2026-08-18T10:39:29Z",
             "owner": "NaturalIntelligence",
             "repo": "imglab",
             "stars": 1019
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T07:55:35Z",
+            "last_commit": "2026-08-18T13:21:55Z",
             "owner": "l3p-cv",
             "repo": "lost",
             "stars": 579
@@ -393,7 +393,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T05:53:53Z",
+            "last_commit": "2026-08-17T17:34:03Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
             "stars": 10376
@@ -579,7 +579,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T14:05:27Z",
+            "last_commit": "2026-08-18T15:10:28Z",
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 179
@@ -604,7 +604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:38:37.667Z",
+    "last_updated": "2026-08-18T15:45:28.603Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
     "enhanced_repository": "enhansome/enhansome-data-labeling",
