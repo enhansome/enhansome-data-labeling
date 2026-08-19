@@ -27,10 +27,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-19T12:13:58Z",
+            "last_commit": "2026-08-19T15:41:13Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16547
+            "stars": 16549
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T01:44:23Z",
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1963
+            "stars": 1964
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 4326197,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:20:38Z",
+            "last_commit": "2026-08-19T15:17:54Z",
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 179
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:32.588Z",
+    "last_updated": "2026-08-19T15:45:26.855Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_id": 192640905,
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
