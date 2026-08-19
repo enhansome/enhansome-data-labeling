@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42625970,
             "language": "Python",
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-18T15:19:12Z",
+            "last_commit": "2026-08-19T12:13:58Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16541
+            "stars": 16547
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-18T15:11:58Z",
+            "last_commit": "2026-08-19T00:32:09Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16109
+            "stars": 16110
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77614310,
             "language": "TypeScript",
             "last_commit": "2021-12-06T21:10:56Z",
             "owner": "microsoft",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191981426,
             "language": "TypeScript",
             "last_commit": "2024-08-15T14:50:41Z",
             "owner": "SkalskiP",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76747577,
             "language": "C++",
             "last_commit": "2020-12-11T00:29:20Z",
             "owner": "AlexeyAB",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105677511,
             "language": "C++",
             "last_commit": "2022-11-21T13:39:21Z",
             "owner": "abreheret",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108266846,
             "language": "HTML",
             "last_commit": "2026-08-18T10:39:29Z",
             "owner": "NaturalIntelligence",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118135147,
             "language": "Python",
             "last_commit": "2022-07-06T19:58:48Z",
             "owner": "Cartucho",
             "repo": "OpenLabeling",
-            "stars": 963
+            "stars": 964
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251059700,
             "language": "TypeScript",
             "last_commit": "2026-08-05T12:39:00Z",
             "owner": "annotorious",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1876221,
             "language": "Python",
             "last_commit": "2020-01-06T17:40:42Z",
             "owner": "cvhciKIT",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133786486,
             "language": "Python",
             "last_commit": "2026-04-18T00:20:55Z",
             "owner": "virajmavani",
@@ -178,8 +190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157239800,
             "language": "Python",
-            "last_commit": "2026-08-18T13:21:55Z",
+            "last_commit": "2026-08-19T11:51:10Z",
             "owner": "l3p-cv",
             "repo": "lost",
             "stars": 579
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96428939,
             "language": "HTML",
             "last_commit": "2024-09-19T09:46:01Z",
             "owner": "bit-bots",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105791274,
             "language": "C++",
             "last_commit": "2022-04-07T11:38:51Z",
             "owner": "jveitchmichaelis",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1299359,
             "language": "JavaScript",
             "last_commit": "2026-07-01T12:04:05Z",
             "owner": "catmaid",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171342580,
             "language": "Java",
             "last_commit": "2024-03-15T17:18:07Z",
             "owner": "kinhong",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113898428,
             "language": "Python",
             "last_commit": "2022-11-22T19:06:17Z",
             "owner": "medtagger",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105918211,
             "language": "Java",
             "last_commit": "2019-01-10T10:15:58Z",
             "owner": "buni-rock",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188447433,
             "language": "C#",
             "last_commit": "2021-01-29T20:30:23Z",
             "owner": "AlturosDestinations",
@@ -290,24 +310,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110423089,
             "language": "JavaScript",
             "last_commit": "2019-12-06T19:24:01Z",
             "owner": "jaxony",
             "repo": "turktool",
             "stars": 58
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Labelbox",
-          "description": "Labelbox is the fastest way to annotate data to build and ship computer vision applications",
-          "children": []
         }
       ],
       "title": "Images"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -316,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49257196,
             "language": "Python",
             "last_commit": "2023-02-19T08:17:40Z",
             "owner": "jiesutd",
@@ -330,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150633826,
             "language": "Python",
             "last_commit": "2024-12-02T16:22:38Z",
             "owner": "RTIInternational",
@@ -344,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182334223,
             "language": null,
             "last_commit": "2022-09-23T12:28:14Z",
             "owner": "d5555",
@@ -358,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97089860,
             "language": "Python",
             "last_commit": "2020-07-30T21:41:31Z",
             "owner": "falcony-io",
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 200671676,
             "language": "Python",
             "last_commit": "2025-01-21T13:17:24Z",
             "owner": "etalab",
@@ -383,7 +403,7 @@
       "title": "Text"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -392,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3618686,
             "language": "TypeScript",
             "last_commit": "2026-08-17T17:34:03Z",
             "owner": "katspaugh",
@@ -406,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13561166,
             "language": "JavaScript",
             "last_commit": "2025-11-08T03:09:27Z",
             "owner": "bbc",
@@ -420,8 +442,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18684635,
             "language": "C",
-            "last_commit": "2026-08-14T16:17:37Z",
+            "last_commit": "2026-08-19T01:44:23Z",
             "owner": "praat",
             "repo": "praat.github.io",
             "stars": 1963
@@ -434,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70267423,
             "language": "JavaScript",
             "last_commit": "2020-03-07T18:16:30Z",
             "owner": "CrowdCurio",
@@ -448,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95057497,
             "language": "JavaScript",
             "last_commit": "2020-04-05T00:24:29Z",
             "owner": "ritazh",
@@ -462,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94032199,
             "language": "JavaScript",
             "last_commit": "2017-08-28T21:47:17Z",
             "owner": "hipstas",
@@ -473,7 +499,7 @@
       "title": "Audio"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -482,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2019922,
             "language": "HTML",
             "last_commit": "2020-07-15T20:01:58Z",
             "owner": "cvondrick",
             "repo": "vatic",
-            "stars": 614
+            "stars": 615
           }
         },
         {
@@ -496,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189499472,
             "language": "Python",
             "last_commit": "2024-08-26T21:19:20Z",
             "owner": "alexandre01",
@@ -507,7 +535,7 @@
       "title": "Video"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -516,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 107930664,
             "language": "JavaScript",
             "last_commit": "2020-12-24T08:19:38Z",
             "owner": "baidu",
@@ -530,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139555645,
             "language": "R",
             "last_commit": "2024-02-08T15:29:01Z",
             "owner": "microsoft",
@@ -544,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156755177,
             "language": "MATLAB",
             "last_commit": "2020-01-30T18:22:14Z",
             "owner": "avenix",
@@ -558,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114179293,
             "language": "JavaScript",
             "last_commit": "2018-11-25T02:14:27Z",
             "owner": "CrowdCurio",
@@ -569,7 +601,7 @@
       "title": "Time Series"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -578,8 +610,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4326197,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:10:28Z",
+            "last_commit": "2026-08-19T12:20:38Z",
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 179
@@ -592,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19774195,
             "language": "C++",
             "last_commit": "2026-08-14T09:09:56Z",
             "owner": "knossos-project",
@@ -604,8 +638,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:45:28.603Z",
+    "last_updated": "2026-08-19T12:22:32.588Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
+    "original_repository_id": 192640905,
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
     "enhanced_repository": "enhansome/enhansome-data-labeling",
     "enhanced_repository_description": null,
