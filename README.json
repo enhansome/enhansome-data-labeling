@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T13:28:58Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16572
+            "stars": 16577
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-21T08:42:34Z",
+            "last_commit": "2026-08-23T01:24:11Z",
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16121
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-21T11:58:21Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10383
+            "stars": 10384
           }
         },
         {
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:34:29.241Z",
+    "last_updated": "2026-08-23T15:35:30.749Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_id": 192640905,
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
