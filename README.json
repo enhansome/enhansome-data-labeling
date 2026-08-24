@@ -27,10 +27,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-21T13:28:58Z",
+            "last_commit": "2026-08-24T11:36:15Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16577
+            "stars": 16586
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-23T01:24:11Z",
+            "last_commit": "2026-08-24T13:58:26Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16121
+            "stars": 16124
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 157239800,
             "language": "Python",
-            "last_commit": "2026-08-20T14:21:23Z",
+            "last_commit": "2026-08-24T12:36:45Z",
             "owner": "l3p-cv",
             "repo": "lost",
             "stars": 579
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-21T11:58:21Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10384
+            "stars": 10382
           }
         },
         {
@@ -444,10 +444,10 @@
             "archived": false,
             "id": 18684635,
             "language": "C",
-            "last_commit": "2026-08-21T10:42:58Z",
+            "last_commit": "2026-08-24T13:43:16Z",
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1963
+            "stars": 1964
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 4326197,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:47:20Z",
+            "last_commit": "2026-08-24T13:41:41Z",
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 179
@@ -635,10 +635,52 @@
         }
       ],
       "title": "3D"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "semantic-segmentation-editor",
+          "description": "Web labelling tool for camera and LIDAR data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142265725,
+            "language": "JavaScript",
+            "last_commit": "2024-09-18T15:04:01Z",
+            "owner": "Hitachi-Automotive-And-Industry-Lab",
+            "repo": "semantic-segmentation-editor",
+            "stars": 1970
+          }
+        }
+      ],
+      "title": "Lidar"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Label Studio",
+          "description": "Label Studio is a configurable data annotation tool that works with different data types",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192640529,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:13:58Z",
+            "owner": "HumanSignal",
+            "repo": "label-studio",
+            "stars": 28122
+          }
+        }
+      ],
+      "title": "MultiDomain"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:35:30.749Z",
+    "last_updated": "2026-08-24T14:00:18.157Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_id": 192640905,
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
