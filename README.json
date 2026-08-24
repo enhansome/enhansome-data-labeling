@@ -27,10 +27,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:15Z",
+            "last_commit": "2026-08-24T15:14:55Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16586
+            "stars": 16588
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 4326197,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:41:41Z",
+            "last_commit": "2026-08-24T14:21:57Z",
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 179
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:13:58Z",
+            "last_commit": "2026-08-24T14:57:24Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28122
+            "stars": 28123
           }
         }
       ],
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:18.157Z",
+    "last_updated": "2026-08-24T15:55:18.893Z",
     "original_repository": "HumanSignal/awesome-data-labeling",
     "original_repository_id": 192640905,
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
