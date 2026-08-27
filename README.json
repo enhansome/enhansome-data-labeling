@@ -27,10 +27,10 @@
             "archived": false,
             "id": 139156354,
             "language": "Python",
-            "last_commit": "2026-08-26T15:56:59Z",
+            "last_commit": "2026-08-27T11:30:29Z",
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16601
+            "stars": 16606
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T09:32:26Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16130
+            "stars": 16131
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2021-12-06T21:10:56Z",
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4428
+            "stars": 4429
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 157239800,
             "language": "Python",
-            "last_commit": "2026-08-26T13:00:44Z",
+            "last_commit": "2026-08-27T10:48:31Z",
             "owner": "l3p-cv",
             "repo": "lost",
             "stars": 579
@@ -432,7 +432,7 @@
             "last_commit": "2025-11-08T03:09:27Z",
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3405
+            "stars": 3404
           }
         },
         {
@@ -612,10 +612,10 @@
             "archived": false,
             "id": 4326197,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:27:51Z",
+            "last_commit": "2026-08-27T11:27:15Z",
             "owner": "scalableminds",
             "repo": "webknossos",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -669,10 +669,10 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:07:04Z",
+            "last_commit": "2026-08-27T08:31:50Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28147
+            "stars": 28157
           }
         }
       ],
@@ -680,9 +680,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:34:06.935Z",
-    "original_repository": "HumanSignal/awesome-data-labeling",
-    "original_repository_id": 192640905,
+    "last_updated": "2026-08-27T11:36:50.489Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 192640905,
+      "language": null,
+      "last_commit": "2024-06-17T06:18:41Z",
+      "owner": "HumanSignal",
+      "repo": "awesome-data-labeling",
+      "stars": 4405
+    },
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
     "enhanced_repository": "enhansome/enhansome-data-labeling",
     "enhanced_repository_description": null,
