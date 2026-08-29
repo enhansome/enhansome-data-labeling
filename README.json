@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
+            "homepage": "https://youtu.be/p0nR2YsCY_U",
             "id": 42625970,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T20:24:32Z",
+            "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25059
+            "stars": 25059,
+            "topics": [
+              "annotations",
+              "deep-learning",
+              "detection",
+              "image-classification",
+              "imagenet",
+              "python2",
+              "python3",
+              "recognition",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -26,12 +41,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
+            "homepage": "https://www.cvat.ai",
             "id": 139156354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:42:26Z",
+            "open_issues": 595,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16615
+            "stars": 16615,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "annotations",
+              "boundingbox",
+              "computer-vision",
+              "computer-vision-annotation",
+              "dataset",
+              "deep-learning",
+              "image-annotation",
+              "image-classification",
+              "image-labeling",
+              "image-labelling-tool",
+              "imagenet",
+              "labeling",
+              "labeling-tool",
+              "object-detection",
+              "pytorch",
+              "semantic-segmentation",
+              "tensorflow",
+              "video-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -42,12 +83,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+            "homepage": "https://labelme.io",
             "id": 58374888,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T13:18:57Z",
+            "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16134
+            "stars": 16134,
+            "topics": [
+              "annotations",
+              "classification",
+              "computer-vision",
+              "deep-learning",
+              "image-annotation",
+              "instance-segmentation",
+              "python",
+              "semantic-segmentation",
+              "video-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -58,12 +114,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. ",
+            "homepage": null,
             "id": 77614310,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-06T21:10:56Z",
+            "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4429
+            "stars": 4429,
+            "topics": [
+              "annotation-tool",
+              "cntk",
+              "deep-learning",
+              "detection",
+              "detection-model",
+              "image-annotation",
+              "image-tagging",
+              "imagetagger",
+              "labeling",
+              "object-detection",
+              "tagging",
+              "taggingtools",
+              "tensorflow-object-detection-api",
+              "video-tagging"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -74,12 +150,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free to use online tool for labelling photos. https://makesense.ai",
+            "homepage": null,
             "id": 191981426,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-15T14:50:41Z",
+            "open_issues": 132,
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3562
+            "stars": 3562,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "detection",
+              "image-annotation",
+              "labeling-photos",
+              "labeling-tool",
+              "landmark-detection",
+              "object-detection",
+              "pascal-voc",
+              "posenet-model",
+              "ssd-model",
+              "tagging"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -90,12 +184,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2",
+            "homepage": "https://github.com/AlexeyAB/darknet",
             "id": 76747577,
             "language": "C++",
+            "license": "Unlicense",
             "last_commit": "2020-12-11T00:29:20Z",
+            "open_issues": 146,
             "owner": "AlexeyAB",
             "repo": "Yolo_mark",
-            "stars": 1840
+            "stars": 1840,
+            "topics": [
+              "darknet",
+              "dnn",
+              "labeling",
+              "marking-bounded-boxes",
+              "object-detection",
+              "training-yolo",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -106,12 +213,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Annotate quickly images. ",
+            "homepage": null,
             "id": 105677511,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2022-11-21T13:39:21Z",
+            "open_issues": 23,
             "owner": "abreheret",
             "repo": "PixelAnnotationTool",
-            "stars": 1455
+            "stars": 1455,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "computer-vision",
+              "deep-learning",
+              "ground-truth",
+              "image-labeling",
+              "image-seg-tool",
+              "labeling-tool",
+              "opencv",
+              "pixel",
+              "pixel-wise",
+              "qt5",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -122,12 +248,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "To speedup and simplify image labeling/ annotation process with multiple supported formats.",
+            "homepage": "https://solothought.com/imglab/",
             "id": 108266846,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-18T10:39:29Z",
+            "open_issues": 40,
             "owner": "NaturalIntelligence",
             "repo": "imglab",
-            "stars": 1019
+            "stars": 1019,
+            "topics": [
+              "annotator",
+              "coco",
+              "dlib",
+              "faceplusplus",
+              "facepp",
+              "fast",
+              "imglab",
+              "label",
+              "label-images",
+              "landmark",
+              "landmark-points",
+              "machine-learning",
+              "nimn",
+              "pascal-voc",
+              "tenserflow"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -138,12 +285,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label images and video for Computer Vision applications",
+            "homepage": null,
             "id": 118135147,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-06T19:58:48Z",
+            "open_issues": 18,
             "owner": "Cartucho",
             "repo": "OpenLabeling",
-            "stars": 965
+            "stars": 965,
+            "topics": [
+              "bounding-boxes",
+              "darkflow",
+              "darknet",
+              "gui",
+              "labeling-tool",
+              "object-detection",
+              "opencv",
+              "pascal-voc",
+              "training-yolo",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -154,12 +317,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add image annotation functionality to any web page with a few lines of JavaScript.",
+            "homepage": "http://annotorious.dev",
             "id": 251059700,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-05T12:39:00Z",
+            "open_issues": 20,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 861
+            "stars": 861,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "data-annotation-tools",
+              "iiif",
+              "image-annotation",
+              "image-annotation-tool",
+              "openseadragon",
+              "react",
+              "react-image-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -170,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sloth is a tool for labeling image and video data for computer vision research.",
+            "homepage": null,
             "id": 1876221,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-06T17:40:42Z",
+            "open_issues": 48,
             "owner": "cvhciKIT",
             "repo": "sloth",
-            "stars": 610
+            "stars": 610,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -186,12 +369,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations using user-defined labels",
+            "homepage": "https://virajmavani.com/annomage",
             "id": 133786486,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-18T00:20:55Z",
+            "open_issues": 10,
             "owner": "virajmavani",
             "repo": "semi-auto-image-annotation-tool",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "automation",
+              "deep-learning",
+              "hackoctoberfest",
+              "hacktoberfest2020",
+              "image-annotation",
+              "image-labeling",
+              "keras",
+              "pytorch",
+              "tensorflow",
+              "torchvision"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -202,12 +401,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.",
+            "homepage": "https://lost.training",
             "id": 157239800,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:31:16Z",
+            "open_issues": 19,
             "owner": "l3p-cv",
             "repo": "lost",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "annotation-framework",
+              "annotation-process",
+              "annotation-tool",
+              "bounding-boxes",
+              "computer-vision",
+              "image-annotation",
+              "machine-learning",
+              "machine-vision",
+              "polygon-annotations"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -218,12 +432,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source online platform for collaborative image labeling",
+            "homepage": null,
             "id": 96428939,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-09-19T09:46:01Z",
+            "open_issues": 39,
             "owner": "bit-bots",
             "repo": "imagetagger",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "crowdsourcing",
+              "deep-learning",
+              "image-annotation",
+              "image-labeling",
+              "images",
+              "imagetagger",
+              "label-images",
+              "labeling",
+              "robocup"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -234,12 +463,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform desktop image annotation tool for machine learning",
+            "homepage": null,
             "id": 105791274,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-04-07T11:38:51Z",
+            "open_issues": 11,
             "owner": "jveitchmichaelis",
             "repo": "deeplabel",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "annotate-images",
+              "annotation",
+              "annotation-tool",
+              "annotation-tool-offline",
+              "bounding-boxes",
+              "deep-learning",
+              "image-annotation",
+              "image-labeling-tool",
+              "kitti",
+              "labeling",
+              "object-detection",
+              "object-detection-label"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -250,12 +497,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative Annotation Toolkit for Massive Amounts of Image Data",
+            "homepage": "https://catmaid.org",
             "id": 1299359,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-01T12:04:05Z",
+            "open_issues": 419,
             "owner": "catmaid",
             "repo": "CATMAID",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "connectomics",
+              "image-annotation",
+              "network-analysis",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -266,12 +523,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenLabeler is an open source desktop application for annotating objects for AI appplications",
+            "homepage": null,
             "id": 171342580,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-15T17:18:07Z",
+            "open_issues": 5,
             "owner": "kinhong",
             "repo": "OpenLabeler",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "annotations",
+              "cross-platform",
+              "deep-learning",
+              "desktop-application",
+              "detection",
+              "docker",
+              "labeling-tool",
+              "nueral-networks",
+              "recognition",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -282,12 +555,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative framework for annotating medical datasets using crowdsourcing.",
+            "homepage": null,
             "id": 113898428,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T19:06:17Z",
+            "open_issues": 122,
             "owner": "medtagger",
             "repo": "MedTagger",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "crowdsourcing",
+              "data-science",
+              "data-validation",
+              "deep-learning",
+              "labeling",
+              "medical-imaging"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -298,12 +583,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pixie is a GUI annotation tool which provides the bounding box, polygon, free drawing and semantic segmentation object labelling",
+            "homepage": "http://annotate.zone/",
             "id": 105918211,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-01-10T10:15:58Z",
+            "open_issues": 0,
             "owner": "buni-rock",
             "repo": "Pixie",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "bounding-boxes",
+              "image-annotation",
+              "image-labeling",
+              "labeling-tool",
+              "labelingsystem",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -314,12 +611,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative tool for labeling image data for yolo",
+            "homepage": null,
             "id": 188447433,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-01-29T20:30:23Z",
+            "open_issues": 5,
             "owner": "AlturosDestinations",
             "repo": "Alturos.ImageAnnotation",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "annotation-tool",
+              "bounding-boxes",
+              "boundingbox",
+              "dotnet",
+              "image-annotation",
+              "image-classification",
+              "image-tagging",
+              "labeling",
+              "labeling-tool",
+              "labelling",
+              "tagging",
+              "taggingtools",
+              "yolo",
+              "yolov2",
+              "yolov3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -330,12 +648,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern React app for bounding box annotation on mturk",
+            "homepage": "https://jaxony.github.io/turktool",
             "id": 110423089,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-06T19:24:01Z",
+            "open_issues": 2,
             "owner": "jaxony",
             "repo": "turktool",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "amazon-mechanical-turk",
+              "bounding-boxes",
+              "deep-learning",
+              "javascript",
+              "labeling",
+              "object-detection",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -352,12 +683,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YEDDA: A Lightweight Collaborative Text Span Annotation Tool. Code for ACL 2018 Best Demo Paper Nomination.",
+            "homepage": null,
             "id": 49257196,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-19T08:17:40Z",
+            "open_issues": 17,
             "owner": "jiesutd",
             "repo": "YEDDA",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "analysis",
+              "annotation-tool",
+              "annotations",
+              "chunk",
+              "entity",
+              "event",
+              "human-annotation",
+              "manual",
+              "named-entity-recognition",
+              "ner",
+              "python",
+              "recommender-system",
+              "sutdannotator",
+              "tkinter"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -368,12 +719,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smarter Manual Annotation for Resource-constrained collection of Training data",
+            "homepage": null,
             "id": 150633826,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-02T16:22:38Z",
+            "open_issues": 92,
             "owner": "RTIInternational",
             "repo": "SMART",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "active-learning",
+              "labeling-tool",
+              "supervised-learning",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -384,12 +745,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏖TagEditor - Annotation tool for spaCy",
+            "homepage": null,
             "id": 182334223,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-23T12:28:14Z",
+            "open_issues": 5,
             "owner": "d5555",
             "repo": "TagEditor",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "coreference-resolution",
+              "data-science",
+              "labeling-tool",
+              "machine-learning",
+              "named-entities",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "neural-networks",
+              "neuralcoref",
+              "nlp",
+              "spacy",
+              "spacy-visualizer",
+              "tagging-tool",
+              "text-annotation",
+              "text-tagging",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -400,12 +785,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Use ML-Annotate to label data for machine learning purposes",
+            "homepage": null,
             "id": 97089860,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-30T21:41:31Z",
+            "open_issues": 6,
             "owner": "falcony-io",
             "repo": "ml-annotate",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "annotation",
+              "labeling",
+              "machine-learning",
+              "python",
+              "tagging"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -416,12 +812,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Question Answering annotation platform - Plateforme d'annotation",
+            "homepage": "https://piaf.etalab.studio",
             "id": 200671676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-21T13:17:24Z",
+            "open_issues": 9,
             "owner": "etalab",
             "repo": "piaf",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "ai",
+              "annotation",
+              "annotation-tool",
+              "natural-language-processing",
+              "piaf",
+              "question-answering",
+              "text-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -438,12 +847,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio waveform player",
+            "homepage": "https://wavesurfer.xyz",
             "id": 3618686,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T11:58:21Z",
+            "open_issues": 36,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10390
+            "stars": 10390,
+            "topics": [
+              "audio",
+              "javascript",
+              "music",
+              "typescript",
+              "waveform",
+              "web-audio"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -454,12 +875,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript UI component for interacting with audio waveforms",
+            "homepage": null,
             "id": 13561166,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-08T03:09:27Z",
+            "open_issues": 64,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3405
+            "stars": 3405,
+            "topics": [
+              "audio",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -470,12 +899,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Praat: Doing Phonetics By Computer",
+            "homepage": "https://praat.org",
             "id": 18684635,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-28T09:04:52Z",
+            "open_issues": 58,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1967
+            "stars": 1968,
+            "topics": [
+              "acoustics",
+              "phonetics",
+              "speech",
+              "speech-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -486,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript interface for annotating and labeling audio files.",
+            "homepage": null,
             "id": 70267423,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-03-07T18:16:30Z",
+            "open_issues": 10,
             "owner": "CrowdCurio",
             "repo": "audio-annotator",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -502,12 +946,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔉 A web app to play, visualize, and annotate your audio files for machine learning",
+            "homepage": "http://echoml.azurewebsites.net/",
             "id": 95057497,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-05T00:24:29Z",
+            "open_issues": 17,
             "owner": "ritazh",
             "repo": "EchoML",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "audio",
+              "audio-player",
+              "audio-visualizer",
+              "azure-storage",
+              "labeling",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -518,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An in-browser app for labeling audio clips at random, using Docker and Flask.",
+            "homepage": "https://hub.docker.com/r/hipstas/audio-labeler/",
             "id": 94032199,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-28T21:47:17Z",
+            "open_issues": 2,
             "owner": "hipstas",
             "repo": "audio-labeler",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -540,12 +1001,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012",
+            "homepage": "http://mit.edu/vondrick/vatic/",
             "id": 2019922,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-07-15T20:01:58Z",
+            "open_issues": 91,
             "owner": "cvondrick",
             "repo": "vatic",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "computer-vision",
+              "video",
+              "video-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -556,12 +1026,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker",
+            "homepage": "https://www.lingosub.com",
             "id": 189499472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-26T21:19:20Z",
+            "open_issues": 13,
             "owner": "alexandre01",
             "repo": "UltimateLabeling",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "computer-vision",
+              "labeling",
+              "labeling-tool",
+              "object-detection",
+              "object-tracking",
+              "python",
+              "pytorch",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -578,12 +1062,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An Integrated Experimental Platform for time series data anomaly detection.",
+            "homepage": "http://curve.baidu.com",
             "id": 107930664,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-24T08:19:38Z",
+            "open_issues": 37,
             "owner": "baidu",
             "repo": "Curve",
-            "stars": 535
+            "stars": 535,
+            "topics": [
+              "anomaly-detection",
+              "labeling",
+              "monitoring-tool",
+              "series-data"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -594,12 +1088,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category) ",
+            "homepage": null,
             "id": 139555645,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-02-08T15:29:01Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "TagAnomaly",
-            "stars": 333
+            "stars": 333,
+            "topics": [
+              "anomaly-detection",
+              "labeling-tool",
+              "r",
+              "shiny",
+              "tagging-tool",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -610,12 +1116,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Wearables Development Toolkit - a development environment for activity recognition applications with sensor signals",
+            "homepage": null,
             "id": 156755177,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2020-01-30T18:22:14Z",
+            "open_issues": 2,
             "owner": "avenix",
             "repo": "WDK",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "activity-recognition",
+              "data-annotation",
+              "machine-learning-algorithms",
+              "matlab",
+              "recognition-chain",
+              "time-series",
+              "wdk",
+              "wearable-computing"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -626,12 +1146,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time series annotation library.",
+            "homepage": null,
             "id": 114179293,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-25T02:14:27Z",
+            "open_issues": 2,
             "owner": "CrowdCurio",
             "repo": "time-series-annotator",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "annotation",
+              "crowdcurio",
+              "medical-imaging",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -648,12 +1178,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize, share and annotate your large 3D images online",
+            "homepage": "https://webknossos.org",
             "id": 4326197,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T15:55:59Z",
+            "open_issues": 327,
             "owner": "scalableminds",
             "repo": "webknossos",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "connectomics",
+              "em",
+              "hacktoberfest",
+              "microscopy",
+              "microscopy-images",
+              "neurobiology",
+              "reconstruction"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         },
@@ -664,12 +1207,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity. ",
+            "homepage": "https://knossos.app",
             "id": 19774195,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T16:36:36Z",
+            "open_issues": 130,
             "owner": "knossos-project",
             "repo": "knossos",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "connectomics",
+              "cross-platform",
+              "desktop",
+              "image-annotation",
+              "linux",
+              "macos",
+              "neuroscience",
+              "visualization",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -686,12 +1244,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web labeling tool for bitmap images and point clouds",
+            "homepage": null,
             "id": 142265725,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-18T15:04:01Z",
+            "open_issues": 62,
             "owner": "Hitachi-Automotive-And-Industry-Lab",
             "repo": "semantic-segmentation-editor",
-            "stars": 1970
+            "stars": 1970,
+            "topics": [
+              "image-labeling",
+              "image-labeling-tool",
+              "labeling-tool",
+              "machine-learning",
+              "manual-annotations",
+              "pcd",
+              "pointcloud",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -708,12 +1280,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+            "homepage": "https://labelstud.io",
             "id": 192640529,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:16:44Z",
+            "open_issues": 927,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28165
+            "stars": 28164,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "annotations",
+              "boundingbox",
+              "computer-vision",
+              "data-labeling",
+              "dataset",
+              "datasets",
+              "deep-learning",
+              "image-annotation",
+              "image-classification",
+              "image-labeling",
+              "image-labelling-tool",
+              "label-studio",
+              "labeling",
+              "labeling-tool",
+              "mlops",
+              "semantic-segmentation",
+              "text-annotation",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
         }
@@ -722,15 +1320,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:04.609Z",
+    "last_updated": "2026-08-29T04:19:20.228Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome data labeling tools",
+      "homepage": null,
       "id": 192640905,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-17T06:18:41Z",
+      "open_issues": 57,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4408
+      "stars": 4408,
+      "topics": [
+        "3d-annotation",
+        "annotation",
+        "annotation-tool",
+        "audio-annotation",
+        "audio-annotation-tool",
+        "awesome",
+        "awesome-list",
+        "bounding-box",
+        "data-labeling",
+        "deep-learning",
+        "image-annotation",
+        "image-labeling",
+        "image-labeling-tool",
+        "label-images",
+        "label-videos",
+        "labeling",
+        "labeling-tool",
+        "lidar",
+        "semantic-segmentation",
+        "video-annotation"
+      ]
     },
     "original_repository_sha": "cb2560ec12bc3542f3123cc0cf8d1a4f77081bea",
     "enhanced_repository": "enhansome/enhansome-data-labeling",

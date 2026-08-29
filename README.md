@@ -39,7 +39,7 @@ A curated list of awesome data labeling tools
 
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,390 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) ⭐ 3,405 | 🐛 64 | 🌐 JavaScript | 📅 2025-11-08 - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
-* [Praat](https://github.com/praat/praat) ⭐ 1,967 | 🐛 58 | 🌐 C | 📅 2026-08-28 - Doing Phonetics By Computer
+* [Praat](https://github.com/praat/praat) ⭐ 1,968 | 🐛 58 | 🌐 C | 📅 2026-08-28 - Doing Phonetics By Computer
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) ⭐ 467 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-07 - A JavaScript interface for annotating and labeling audio files.
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize, and annotate your audio files
 * [audio-labeler](https://github.com/hipstas/audio-labeler) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2017-08-28 - An in-browser app for labeling audio clips at random, using Docker and Flask.
@@ -68,7 +68,7 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,165 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,164 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***
