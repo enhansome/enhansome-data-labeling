@@ -5,8 +5,8 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [CVAT](https://github.com/opencv/cvat) ⭐ 16,615 | 🐛 595 | 🌐 Python | 📅 2026-08-28 - Powerful and efficient Computer Vision Annotion Tool
-* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,134 | 🐛 180 | 🌐 Python | 📅 2026-08-27 - Image Polygonal Annotation with Python
+* [CVAT](https://github.com/opencv/cvat) ⭐ 16,618 | 🐛 595 | 🌐 Python | 📅 2026-08-29 - Powerful and efficient Computer Vision Annotion Tool
+* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,132 | 🐛 180 | 🌐 Python | 📅 2026-08-29 - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) ⚠️ Archived - An open source annotation and labeling tool for image and video assets
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,562 | 🐛 132 | 🌐 TypeScript | 📅 2024-08-15 - makesense.ai is a free to use online tool for labelling photos
 * [Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,840 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
@@ -29,7 +29,7 @@ A curated list of awesome data labeling tools
 
 #### Text
 
-* [YEDDA](https://github.com/jiesutd/YEDDA) ⭐ 1,071 | 🐛 17 | 🌐 Python | 📅 2023-02-19 - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
+* [YEDDA](https://github.com/jiesutd/YEDDA) ⭐ 1,072 | 🐛 17 | 🌐 Python | 📅 2023-02-19 - A Lightweight Collaborative Text Span Annotation Tool (Chunking, NER, etc.). ACL best demo nomination.
 * [SMART](https://github.com/RTIInternational/SMART) ⭐ 232 | 🐛 92 | 🌐 Python | 📅 2024-12-02 - Smarter Manual Annotation for Resource-constrained collection of Training data
 * [TagEditor](https://github.com/d5555/TagEditor) ⭐ 193 | 🐛 5 | 📅 2022-09-23 - Annotation tool for spaCy
 * [ML-Annotate](https://github.com/planbrothers/ml-annotate) ⚠️ Archived - Label text data for machine learning purposes. ML-Annotate supports binary, multi-label and multi-class labeling.
@@ -39,7 +39,7 @@ A curated list of awesome data labeling tools
 
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,390 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-21 - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) ⭐ 3,405 | 🐛 64 | 🌐 JavaScript | 📅 2025-11-08 - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
-* [Praat](https://github.com/praat/praat) ⭐ 1,968 | 🐛 58 | 🌐 C | 📅 2026-08-28 - Doing Phonetics By Computer
+* [Praat](https://github.com/praat/praat) ⭐ 1,969 | 🐛 58 | 🌐 C | 📅 2026-08-28 - Doing Phonetics By Computer
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) ⭐ 467 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-07 - A JavaScript interface for annotating and labeling audio files.
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize, and annotate your audio files
 * [audio-labeler](https://github.com/hipstas/audio-labeler) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2017-08-28 - An in-browser app for labeling audio clips at random, using Docker and Flask.
@@ -68,7 +68,7 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,164 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,163 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-29 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***

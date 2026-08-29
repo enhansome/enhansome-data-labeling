@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:42:26Z",
+            "last_commit": "2026-08-29T08:59:44Z",
             "open_issues": 595,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16615,
+            "stars": 16618,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -88,11 +88,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T13:18:57Z",
+            "last_commit": "2026-08-29T17:01:05Z",
             "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16134,
+            "stars": 16132,
             "topics": [
               "annotations",
               "classification",
@@ -692,7 +692,7 @@
             "open_issues": 17,
             "owner": "jiesutd",
             "repo": "YEDDA",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "analysis",
               "annotation-tool",
@@ -908,7 +908,7 @@
             "open_issues": 58,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1968,
+            "stars": 1969,
             "topics": [
               "acoustics",
               "phonetics",
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:16:44Z",
+            "last_commit": "2026-08-29T09:34:56Z",
             "open_issues": 927,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28164,
+            "stars": 28163,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:19:20.228Z",
+    "last_updated": "2026-08-29T18:27:54.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
