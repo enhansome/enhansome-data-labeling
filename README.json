@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T18:26:50Z",
-            "open_issues": 602,
+            "last_commit": "2026-09-04T16:22:34Z",
+            "open_issues": 596,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16639,
+            "stars": 16645,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -92,7 +92,7 @@
             "open_issues": 171,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16140,
+            "stars": 16148,
             "topics": [
               "annotations",
               "classification",
@@ -326,7 +326,7 @@
             "open_issues": 13,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 864,
+            "stars": 865,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -357,7 +357,7 @@
             "open_issues": 48,
             "owner": "cvhciKIT",
             "repo": "sloth",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
@@ -406,7 +406,7 @@
             "id": 157239800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:12:55Z",
+            "last_commit": "2026-09-04T13:45:48Z",
             "open_issues": 19,
             "owner": "l3p-cv",
             "repo": "lost",
@@ -852,7 +852,7 @@
             "id": 3618686,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T18:11:55Z",
+            "last_commit": "2026-09-03T18:48:16Z",
             "open_issues": 13,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
@@ -1183,8 +1183,8 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T13:18:43Z",
-            "open_issues": 317,
+            "last_commit": "2026-09-04T17:14:57Z",
+            "open_issues": 321,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 181,
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:01:38Z",
-            "open_issues": 935,
+            "last_commit": "2026-09-04T14:31:40Z",
+            "open_issues": 937,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28194,
+            "stars": 28203,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:37:37.213Z",
+    "last_updated": "2026-09-04T18:23:36.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 57,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4412,
+      "stars": 4411,
       "topics": [
         "3d-annotation",
         "annotation",
