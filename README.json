@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25054,
+            "stars": 25052,
             "topics": [
               "annotations",
               "deep-learning",
@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:54:24Z",
-            "open_issues": 596,
+            "last_commit": "2026-09-08T17:11:45Z",
+            "open_issues": 595,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16655,
+            "stars": 16665,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -88,11 +88,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T12:18:36Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-08T12:57:59Z",
+            "open_issues": 169,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16154,
+            "stars": 16156,
             "topics": [
               "annotations",
               "classification",
@@ -294,7 +294,7 @@
             "open_issues": 18,
             "owner": "Cartucho",
             "repo": "OpenLabeling",
-            "stars": 965,
+            "stars": 964,
             "topics": [
               "bounding-boxes",
               "darkflow",
@@ -326,7 +326,7 @@
             "open_issues": 13,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -357,7 +357,7 @@
             "open_issues": 48,
             "owner": "cvhciKIT",
             "repo": "sloth",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
@@ -406,7 +406,7 @@
             "id": 157239800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-07T13:33:09Z",
+            "last_commit": "2026-09-08T11:46:51Z",
             "open_issues": 19,
             "owner": "l3p-cv",
             "repo": "lost",
@@ -856,7 +856,7 @@
             "open_issues": 12,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10402,
+            "stars": 10404,
             "topics": [
               "audio",
               "javascript",
@@ -884,7 +884,7 @@
             "open_issues": 64,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3406,
+            "stars": 3405,
             "topics": [
               "audio",
               "javascript"
@@ -908,7 +908,7 @@
             "open_issues": 58,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1976,
+            "stars": 1977,
             "topics": [
               "acoustics",
               "phonetics",
@@ -1183,8 +1183,8 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T18:59:47Z",
-            "open_issues": 322,
+            "last_commit": "2026-09-08T18:34:26Z",
+            "open_issues": 315,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 181,
@@ -1285,8 +1285,8 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:23:06Z",
-            "open_issues": 940,
+            "last_commit": "2026-09-08T16:54:44Z",
+            "open_issues": 941,
             "owner": "HumanSignal",
             "repo": "label-studio",
             "stars": 28231,
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:08:59.061Z",
+    "last_updated": "2026-09-08T18:39:24.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
