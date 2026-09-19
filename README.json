@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25054,
+            "stars": 25055,
             "topics": [
               "annotations",
               "deep-learning",
@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:46:49Z",
-            "open_issues": 589,
+            "last_commit": "2026-09-19T16:30:17Z",
+            "open_issues": 591,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16747,
+            "stars": 16752,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -92,7 +92,7 @@
             "open_issues": 166,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16175,
+            "stars": 16176,
             "topics": [
               "annotations",
               "classification",
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:57:20Z",
-            "open_issues": 948,
+            "last_commit": "2026-09-19T01:48:24Z",
+            "open_issues": 950,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28293,
+            "stars": 28296,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:27:50.310Z",
+    "last_updated": "2026-09-19T18:00:07.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",

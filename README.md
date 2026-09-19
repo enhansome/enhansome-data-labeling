@@ -5,8 +5,8 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [CVAT](https://github.com/opencv/cvat) ⭐ 16,747 | 🐛 589 | 🌐 Python | 📅 2026-09-18 - Powerful and efficient Computer Vision Annotion Tool
-* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,175 | 🐛 166 | 🌐 Python | 📅 2026-09-18 - Image Polygonal Annotation with Python
+* [CVAT](https://github.com/opencv/cvat) ⭐ 16,752 | 🐛 591 | 🌐 Python | 📅 2026-09-19 - Powerful and efficient Computer Vision Annotion Tool
+* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,176 | 🐛 166 | 🌐 Python | 📅 2026-09-18 - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) ⚠️ Archived - An open source annotation and labeling tool for image and video assets
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,569 | 🐛 132 | 🌐 TypeScript | 📅 2024-08-15 - makesense.ai is a free to use online tool for labelling photos
 * [Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
@@ -68,9 +68,9 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,293 | 🐛 948 | 🌐 TypeScript | 📅 2026-09-18 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,296 | 🐛 950 | 🌐 TypeScript | 📅 2026-09-19 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
