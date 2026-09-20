@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25055,
+            "stars": 25054,
             "topics": [
               "annotations",
               "deep-learning",
@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T16:30:17Z",
-            "open_issues": 591,
+            "last_commit": "2026-09-20T07:21:16Z",
+            "open_issues": 593,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16752,
+            "stars": 16755,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -908,7 +908,7 @@
             "open_issues": 58,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "acoustics",
               "phonetics",
@@ -1184,7 +1184,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-18T13:50:39Z",
-            "open_issues": 331,
+            "open_issues": 332,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 184,
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T01:48:24Z",
+            "last_commit": "2026-09-20T13:32:40Z",
             "open_issues": 950,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28296,
+            "stars": 28302,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:00:07.888Z",
+    "last_updated": "2026-09-20T18:11:55.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 58,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4411,
+      "stars": 4412,
       "topics": [
         "3d-annotation",
         "annotation",
