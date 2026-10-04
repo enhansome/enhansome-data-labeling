@@ -50,7 +50,7 @@
             "open_issues": 592,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16856,
+            "stars": 16858,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -92,7 +92,7 @@
             "open_issues": 165,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16208,
+            "stars": 16209,
             "topics": [
               "annotations",
               "classification",
@@ -123,7 +123,7 @@
             "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4428,
+            "stars": 4430,
             "topics": [
               "annotation-tool",
               "cntk",
@@ -856,7 +856,7 @@
             "open_issues": 17,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10426,
+            "stars": 10427,
             "topics": [
               "audio",
               "javascript",
@@ -881,7 +881,7 @@
             "language": "JavaScript",
             "license": "LGPL-3.0",
             "last_commit": "2025-11-08T03:09:27Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "bbc",
             "repo": "peaks.js",
             "stars": 3407,
@@ -1097,7 +1097,7 @@
             "open_issues": 2,
             "owner": "microsoft",
             "repo": "TagAnomaly",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "anomaly-detection",
               "labeling-tool",
@@ -1289,7 +1289,7 @@
             "open_issues": 947,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28397,
+            "stars": 28400,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:40:48.483Z",
+    "last_updated": "2026-10-04T18:38:19.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 58,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4419,
+      "stars": 4420,
       "topics": [
         "3d-annotation",
         "annotation",
