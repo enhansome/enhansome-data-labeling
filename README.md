@@ -5,19 +5,19 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [CVAT](https://github.com/opencv/cvat) ⭐ 16,862 | 🐛 579 | 🌐 Python | 📅 2026-10-05 - Powerful and efficient Computer Vision Annotion Tool
-* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,209 | 🐛 166 | 🌐 Python | 📅 2026-10-05 - Image Polygonal Annotation with Python
+* [CVAT](https://github.com/opencv/cvat) ⭐ 16,863 | 🐛 579 | 🌐 Python | 📅 2026-10-06 - Powerful and efficient Computer Vision Annotion Tool
+* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,208 | 🐛 166 | 🌐 Python | 📅 2026-10-05 - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) ⚠️ Archived - An open source annotation and labeling tool for image and video assets
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,574 | 🐛 133 | 🌐 TypeScript | 📅 2024-08-15 - makesense.ai is a free to use online tool for labelling photos
 * [Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ⭐ 1,456 | 🐛 23 | 🌐 C++ | 📅 2022-11-21 - Software that allows you to manually and quickly annotate images in directories
 * [imglab](https://github.com/NaturalIntelligence/imglab) ⭐ 1,021 | 🐛 40 | 🌐 HTML | 📅 2026-08-18 - A web based tool to label images for objects that can be used to train dlib or other object detectors
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 965 | 🐛 18 | 🌐 Python | 📅 2022-07-06 - Label images and video for Computer Vision applications
-* [Annotorious](https://github.com/recogito/annotorious) ⭐ 867 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-02 - A JavaScript library for image annotation.
+* [Annotorious](https://github.com/recogito/annotorious) ⭐ 867 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06 - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) ⭐ 610 | 🐛 48 | 🌐 Python | 📅 2020-01-06 - Tool for labeling image and video data for computer vision research.
 * [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) ⭐ 596 | 🐛 10 | 🌐 Python | 📅 2026-04-18 - A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
-* [LOST](https://github.com/l3p-cv/lost) ⭐ 580 | 🐛 23 | 🌐 Python | 📅 2026-10-05 - Design your own smart Image Annotation process in a web-based environment
-* [imagetagger](https://github.com/bit-bots/imagetagger) ⭐ 275 | 🐛 39 | 🌐 HTML | 📅 2024-09-19 - An open source online platform for collaborative image labeling
+* [LOST](https://github.com/l3p-cv/lost) ⭐ 580 | 🐛 23 | 🌐 Python | 📅 2026-10-06 - Design your own smart Image Annotation process in a web-based environment
+* [imagetagger](https://github.com/bit-bots/imagetagger) ⭐ 276 | 🐛 39 | 🌐 HTML | 📅 2024-09-19 - An open source online platform for collaborative image labeling
 * [deeplabel](https://github.com/jveitchmichaelis/deeplabel) ⭐ 217 | 🐛 11 | 🌐 C++ | 📅 2022-04-07 - A cross-platform image annotation tool for machine learning
 * [CATMAID](https://github.com/catmaid/CATMAID) ⭐ 202 | 🐛 422 | 🌐 JavaScript | 📅 2026-09-28 - Collaborative Annotation Toolkit for Massive Amounts of Image Data
 * [OpenLabeler](https://github.com/kinhong/OpenLabeler) ⭐ 128 | 🐛 5 | 🌐 Java | 📅 2024-03-15 - OpenLabeler is an open source desktop application for annotating objects for AI appplications
@@ -37,7 +37,7 @@ A curated list of awesome data labeling tools
 
 #### Audio
 
-* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,427 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-05 - Simple annotations tool, check the example.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,428 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-05 - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) ⭐ 3,407 | 🐛 65 | 🌐 JavaScript | 📅 2025-11-08 - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 * [Praat](https://github.com/praat/praat) ⭐ 1,993 | 🐛 60 | 🌐 C | 📅 2026-09-30 - Doing Phonetics By Computer
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) ⭐ 468 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-07 - A JavaScript interface for annotating and labeling audio files.
@@ -59,7 +59,7 @@ A curated list of awesome data labeling tools
 
 #### 3D
 
-* [webKnossos](https://github.com/scalableminds/webknossos) ⭐ 184 | 🐛 323 | 🌐 TypeScript | 📅 2026-10-05 - webKnossos is an open-source web-based tool for visualizing, annotating, and sharing large 3D image datasets. It features fast 3D data browsing, skeleton (line-segment) annotations, segmentation and proof-reading tools, mesh visualization, and collaboration features. The public instance [webknossos.org](https://webknossos.org) hosts a collection of published datasets and can be used without a local setup.
+* [webKnossos](https://github.com/scalableminds/webknossos) ⭐ 184 | 🐛 327 | 🌐 TypeScript | 📅 2026-10-06 - webKnossos is an open-source web-based tool for visualizing, annotating, and sharing large 3D image datasets. It features fast 3D data browsing, skeleton (line-segment) annotations, segmentation and proof-reading tools, mesh visualization, and collaboration features. The public instance [webknossos.org](https://webknossos.org) hosts a collection of published datasets and can be used without a local setup.
 * [KNOSSOS](https://github.com/knossos-project/knossos) ⭐ 77 | 🐛 130 | 🌐 C++ | 📅 2026-09-10 - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
 
 #### Lidar
@@ -68,9 +68,9 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,402 | 🐛 948 | 🌐 TypeScript | 📅 2026-10-05 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,407 | 🐛 949 | 🌐 TypeScript | 📅 2026-10-06 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
