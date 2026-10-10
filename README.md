@@ -5,15 +5,15 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [CVAT](https://github.com/opencv/cvat) ⭐ 16,887 | 🐛 569 | 🌐 Python | 📅 2026-10-09 - Powerful and efficient Computer Vision Annotion Tool
-* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,214 | 🐛 170 | 🌐 Python | 📅 2026-10-07 - Image Polygonal Annotation with Python
+* [CVAT](https://github.com/opencv/cvat) ⭐ 16,896 | 🐛 569 | 🌐 Python | 📅 2026-10-09 - Powerful and efficient Computer Vision Annotion Tool
+* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,214 | 🐛 175 | 🌐 Python | 📅 2026-10-07 - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) ⚠️ Archived - An open source annotation and labeling tool for image and video assets
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,574 | 🐛 133 | 🌐 TypeScript | 📅 2024-08-15 - makesense.ai is a free to use online tool for labelling photos
 * [Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ⭐ 1,456 | 🐛 23 | 🌐 C++ | 📅 2022-11-21 - Software that allows you to manually and quickly annotate images in directories
 * [imglab](https://github.com/NaturalIntelligence/imglab) ⭐ 1,022 | 🐛 40 | 🌐 HTML | 📅 2026-08-18 - A web based tool to label images for objects that can be used to train dlib or other object detectors
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 965 | 🐛 18 | 🌐 Python | 📅 2022-07-06 - Label images and video for Computer Vision applications
-* [Annotorious](https://github.com/recogito/annotorious) ⭐ 868 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06 - A JavaScript library for image annotation.
+* [Annotorious](https://github.com/recogito/annotorious) ⭐ 869 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06 - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) ⭐ 610 | 🐛 48 | 🌐 Python | 📅 2020-01-06 - Tool for labeling image and video data for computer vision research.
 * [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) ⭐ 596 | 🐛 10 | 🌐 Python | 📅 2026-04-18 - A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 * [LOST](https://github.com/l3p-cv/lost) ⭐ 580 | 🐛 24 | 🌐 Python | 📅 2026-10-09 - Design your own smart Image Annotation process in a web-based environment
@@ -37,7 +37,7 @@ A curated list of awesome data labeling tools
 
 #### Audio
 
-* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,434 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-09 - Simple annotations tool, check the example.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,435 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-09 - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) ⭐ 3,409 | 🐛 65 | 🌐 JavaScript | 📅 2025-11-08 - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
 * [Praat](https://github.com/praat/praat) ⭐ 2,001 | 🐛 61 | 🌐 C | 📅 2026-10-06 - Doing Phonetics By Computer
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) ⭐ 468 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-07 - A JavaScript interface for annotating and labeling audio files.
@@ -68,9 +68,9 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,429 | 🐛 952 | 🌐 TypeScript | 📅 2026-10-09 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,436 | 🐛 953 | 🌐 TypeScript | 📅 2026-10-09 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

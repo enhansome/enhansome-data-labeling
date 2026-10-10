@@ -50,7 +50,7 @@
             "open_issues": 569,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16887,
+            "stars": 16896,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -89,7 +89,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-07T01:56:58Z",
-            "open_issues": 170,
+            "open_issues": 175,
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16214,
@@ -326,7 +326,7 @@
             "open_issues": 12,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -853,10 +853,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-09T09:35:29Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10434,
+            "stars": 10435,
             "topics": [
               "audio",
               "javascript",
@@ -1286,10 +1286,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T16:52:49Z",
-            "open_issues": 952,
+            "open_issues": 953,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28429,
+            "stars": 28436,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:06:12.862Z",
+    "last_updated": "2026-10-10T19:16:28.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
