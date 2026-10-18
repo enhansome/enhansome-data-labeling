@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:33:25Z",
+            "last_commit": "2026-10-18T11:11:13Z",
             "open_issues": 583,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 16943,
+            "stars": 16949,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -123,7 +123,7 @@
             "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4428,
+            "stars": 4427,
             "topics": [
               "annotation-tool",
               "cntk",
@@ -159,7 +159,7 @@
             "open_issues": 132,
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3578,
+            "stars": 3579,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -884,7 +884,7 @@
             "open_issues": 72,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3408,
+            "stars": 3409,
             "topics": [
               "audio",
               "javascript"
@@ -908,7 +908,7 @@
             "open_issues": 61,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 2009,
+            "stars": 2008,
             "topics": [
               "acoustics",
               "phonetics",
@@ -1183,7 +1183,7 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T16:26:07Z",
+            "last_commit": "2026-10-17T22:02:20Z",
             "open_issues": 340,
             "owner": "scalableminds",
             "repo": "webknossos",
@@ -1289,7 +1289,7 @@
             "open_issues": 954,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28480,
+            "stars": 28487,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:51:30.610Z",
+    "last_updated": "2026-10-18T18:04:39.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
