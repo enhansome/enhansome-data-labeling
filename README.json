@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T15:17:22Z",
-            "open_issues": 594,
+            "last_commit": "2026-10-27T19:50:07Z",
+            "open_issues": 592,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17005,
+            "stars": 17021,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -123,7 +123,7 @@
             "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4426,
+            "stars": 4424,
             "topics": [
               "annotation-tool",
               "cntk",
@@ -502,8 +502,8 @@
             "id": 1299359,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T23:42:46Z",
-            "open_issues": 425,
+            "last_commit": "2026-10-27T11:58:20Z",
+            "open_issues": 426,
             "owner": "catmaid",
             "repo": "CATMAID",
             "stars": 202,
@@ -856,7 +856,7 @@
             "open_issues": 14,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10448,
+            "stars": 10450,
             "topics": [
               "audio",
               "javascript",
@@ -884,7 +884,7 @@
             "open_issues": 73,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3410,
+            "stars": 3409,
             "topics": [
               "audio",
               "javascript"
@@ -934,7 +934,7 @@
             "open_issues": 10,
             "owner": "CrowdCurio",
             "repo": "audio-annotator",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
@@ -1097,7 +1097,7 @@
             "open_issues": 2,
             "owner": "microsoft",
             "repo": "TagAnomaly",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "anomaly-detection",
               "labeling-tool",
@@ -1183,8 +1183,8 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T19:32:09Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-27T18:47:34Z",
+            "open_issues": 323,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 186,
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T17:14:34Z",
+            "last_commit": "2026-10-27T18:09:29Z",
             "open_issues": 958,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28550,
+            "stars": 28565,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:28:37.703Z",
+    "last_updated": "2026-10-27T20:05:03.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
