@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25028,
+            "stars": 25029,
             "topics": [
               "annotations",
               "deep-learning",
@@ -47,10 +47,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T21:25:53Z",
-            "open_issues": 596,
+            "open_issues": 597,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17091,
+            "stars": 17096,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -89,7 +89,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T01:46:08Z",
-            "open_issues": 178,
+            "open_issues": 179,
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16299,
@@ -123,7 +123,7 @@
             "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4425,
+            "stars": 4426,
             "topics": [
               "annotation-tool",
               "cntk",
@@ -159,7 +159,7 @@
             "open_issues": 131,
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -222,7 +222,7 @@
             "open_issues": 23,
             "owner": "abreheret",
             "repo": "PixelAnnotationTool",
-            "stars": 1456,
+            "stars": 1455,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -853,7 +853,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-03T09:39:17Z",
-            "open_issues": 11,
+            "open_issues": 15,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
             "stars": 10462,
@@ -884,7 +884,7 @@
             "open_issues": 73,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3410,
+            "stars": 3411,
             "topics": [
               "audio",
               "javascript"
@@ -904,11 +904,11 @@
             "id": 18684635,
             "language": "C",
             "license": null,
-            "last_commit": "2026-11-03T00:51:03Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-08T02:36:43Z",
+            "open_issues": 62,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 2026,
+            "stars": 2028,
             "topics": [
               "acoustics",
               "phonetics",
@@ -1183,7 +1183,7 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T13:38:47Z",
+            "last_commit": "2026-11-08T14:14:22Z",
             "open_issues": 324,
             "owner": "scalableminds",
             "repo": "webknossos",
@@ -1286,10 +1286,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T16:56:23Z",
-            "open_issues": 961,
+            "open_issues": 963,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28647,
+            "stars": 28653,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:25:14.131Z",
+    "last_updated": "2026-11-08T19:40:21.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 59,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4441,
+      "stars": 4442,
       "topics": [
         "3d-annotation",
         "annotation",
