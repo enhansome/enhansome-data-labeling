@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:25:53Z",
-            "open_issues": 597,
+            "last_commit": "2026-11-09T15:55:49Z",
+            "open_issues": 593,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17096,
+            "stars": 17102,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -92,7 +92,7 @@
             "open_issues": 179,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16299,
+            "stars": 16307,
             "topics": [
               "annotations",
               "classification",
@@ -159,7 +159,7 @@
             "open_issues": 131,
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3573,
+            "stars": 3572,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -326,7 +326,7 @@
             "open_issues": 12,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 870,
+            "stars": 871,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -852,11 +852,11 @@
             "id": 3618686,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-03T09:39:17Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-09T22:27:07Z",
+            "open_issues": 32,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10462,
+            "stars": 10465,
             "topics": [
               "audio",
               "javascript",
@@ -884,7 +884,7 @@
             "open_issues": 73,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3411,
+            "stars": 3412,
             "topics": [
               "audio",
               "javascript"
@@ -1183,8 +1183,8 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T14:14:22Z",
-            "open_issues": 324,
+            "last_commit": "2026-11-09T15:22:03Z",
+            "open_issues": 321,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 187,
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T16:56:23Z",
-            "open_issues": 963,
+            "last_commit": "2026-11-09T20:20:49Z",
+            "open_issues": 966,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28653,
+            "stars": 28663,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:40:21.800Z",
+    "last_updated": "2026-11-09T23:46:29.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
