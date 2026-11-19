@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25024,
+            "stars": 25021,
             "topics": [
               "annotations",
               "deep-learning",
@@ -46,11 +46,11 @@
             "id": 139156354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:13:45Z",
-            "open_issues": 601,
+            "last_commit": "2026-11-19T18:32:10Z",
+            "open_issues": 606,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17163,
+            "stars": 17171,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -88,11 +88,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T15:50:45Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-19T16:01:37Z",
+            "open_issues": 79,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16337,
+            "stars": 16342,
             "topics": [
               "annotations",
               "classification",
@@ -123,7 +123,7 @@
             "open_issues": 246,
             "owner": "microsoft",
             "repo": "VoTT",
-            "stars": 4424,
+            "stars": 4423,
             "topics": [
               "annotation-tool",
               "cntk",
@@ -159,7 +159,7 @@
             "open_issues": 131,
             "owner": "SkalskiP",
             "repo": "make-sense",
-            "stars": 3573,
+            "stars": 3572,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -193,7 +193,7 @@
             "open_issues": 146,
             "owner": "AlexeyAB",
             "repo": "Yolo_mark",
-            "stars": 1841,
+            "stars": 1839,
             "topics": [
               "darknet",
               "dnn",
@@ -222,7 +222,7 @@
             "open_issues": 23,
             "owner": "abreheret",
             "repo": "PixelAnnotationTool",
-            "stars": 1455,
+            "stars": 1454,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -257,7 +257,7 @@
             "open_issues": 40,
             "owner": "NaturalIntelligence",
             "repo": "imglab",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "annotator",
               "coco",
@@ -323,10 +323,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-18T11:21:54Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "annotorious",
             "repo": "annotorious",
-            "stars": 876,
+            "stars": 875,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -406,11 +406,11 @@
             "id": 157239800,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T15:45:51Z",
+            "last_commit": "2026-11-19T14:43:41Z",
             "open_issues": 29,
             "owner": "l3p-cv",
             "repo": "lost",
-            "stars": 581,
+            "stars": 580,
             "topics": [
               "annotation-framework",
               "annotation-process",
@@ -692,7 +692,7 @@
             "open_issues": 17,
             "owner": "jiesutd",
             "repo": "YEDDA",
-            "stars": 1075,
+            "stars": 1074,
             "topics": [
               "analysis",
               "annotation-tool",
@@ -853,7 +853,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-12T09:15:41Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
             "stars": 10481,
@@ -884,7 +884,7 @@
             "open_issues": 73,
             "owner": "bbc",
             "repo": "peaks.js",
-            "stars": 3414,
+            "stars": 3413,
             "topics": [
               "audio",
               "javascript"
@@ -908,7 +908,7 @@
             "open_issues": 63,
             "owner": "praat",
             "repo": "praat.github.io",
-            "stars": 2034,
+            "stars": 2033,
             "topics": [
               "acoustics",
               "phonetics",
@@ -934,7 +934,7 @@
             "open_issues": 10,
             "owner": "CrowdCurio",
             "repo": "audio-annotator",
-            "stars": 469,
+            "stars": 468,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:04.609Z"
@@ -1035,7 +1035,7 @@
             "open_issues": 13,
             "owner": "alexandre01",
             "repo": "UltimateLabeling",
-            "stars": 325,
+            "stars": 324,
             "topics": [
               "computer-vision",
               "labeling",
@@ -1183,8 +1183,8 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-18T19:25:49Z",
-            "open_issues": 316,
+            "last_commit": "2026-11-19T16:32:01Z",
+            "open_issues": 308,
             "owner": "scalableminds",
             "repo": "webknossos",
             "stars": 188,
@@ -1253,7 +1253,7 @@
             "open_issues": 62,
             "owner": "Hitachi-Automotive-And-Industry-Lab",
             "repo": "semantic-segmentation-editor",
-            "stars": 1979,
+            "stars": 1978,
             "topics": [
               "image-labeling",
               "image-labeling-tool",
@@ -1285,11 +1285,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T20:47:56Z",
-            "open_issues": 986,
+            "last_commit": "2026-11-19T19:09:26Z",
+            "open_issues": 987,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28728,
+            "stars": 28731,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:35:06.858Z",
+    "last_updated": "2026-11-19T22:39:33.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 58,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4449,
+      "stars": 4448,
       "topics": [
         "3d-annotation",
         "annotation",
