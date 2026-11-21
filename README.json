@@ -50,7 +50,7 @@
             "open_issues": 607,
             "owner": "cvat-ai",
             "repo": "cvat",
-            "stars": 17178,
+            "stars": 17183,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -853,10 +853,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-12T09:15:41Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10481,
+            "stars": 10482,
             "topics": [
               "audio",
               "javascript",
@@ -1183,7 +1183,7 @@
             "id": 4326197,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-20T13:01:19Z",
+            "last_commit": "2026-11-21T12:13:02Z",
             "open_issues": 309,
             "owner": "scalableminds",
             "repo": "webknossos",
@@ -1286,10 +1286,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T20:25:46Z",
-            "open_issues": 987,
+            "open_issues": 988,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28737,
+            "stars": 28739,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1320,7 +1320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:14:22.912Z",
+    "last_updated": "2026-11-21T20:53:36.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome data labeling tools",
@@ -1332,7 +1332,7 @@
       "open_issues": 58,
       "owner": "HumanSignal",
       "repo": "awesome-data-labeling",
-      "stars": 4449,
+      "stars": 4448,
       "topics": [
         "3d-annotation",
         "annotation",
