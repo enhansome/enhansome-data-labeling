@@ -5,15 +5,15 @@ A curated list of awesome data labeling tools
 #### Images
 
 * [labelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool and label object bounding boxes in images
-* [CVAT](https://github.com/opencv/cvat) ⭐ 17,208 | 🐛 606 | 🌐 Python | 📅 2026-11-25 - Powerful and efficient Computer Vision Annotion Tool
-* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,348 | 🐛 82 | 🌐 Python | 📅 2026-11-25 - Image Polygonal Annotation with Python
+* [CVAT](https://github.com/opencv/cvat) ⭐ 17,210 | 🐛 614 | 🌐 Python | 📅 2026-11-26 - Powerful and efficient Computer Vision Annotion Tool
+* [labelme](https://github.com/wkentaro/labelme) ⭐ 16,348 | 🐛 87 | 🌐 Python | 📅 2026-11-26 - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) ⚠️ Archived - An open source annotation and labeling tool for image and video assets
 * [make-sense](https://github.com/SkalskiP/make-sense) ⭐ 3,573 | 🐛 131 | 🌐 TypeScript | 📅 2024-08-15 - makesense.ai is a free to use online tool for labelling photos
 * [Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,839 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ⭐ 1,456 | 🐛 23 | 🌐 C++ | 📅 2022-11-21 - Software that allows you to manually and quickly annotate images in directories
 * [imglab](https://github.com/NaturalIntelligence/imglab) ⭐ 1,022 | 🐛 40 | 🌐 HTML | 📅 2026-08-18 - A web based tool to label images for objects that can be used to train dlib or other object detectors
 * [OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 966 | 🐛 18 | 🌐 Python | 📅 2022-07-06 - Label images and video for Computer Vision applications
-* [Annotorious](https://github.com/recogito/annotorious) ⭐ 875 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-18 - A JavaScript library for image annotation.
+* [Annotorious](https://github.com/recogito/annotorious) ⭐ 876 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-18 - A JavaScript library for image annotation.
 * [Sloth](https://github.com/cvhciKIT/sloth) ⭐ 610 | 🐛 48 | 🌐 Python | 📅 2020-01-06 - Tool for labeling image and video data for computer vision research.
 * [Anno-Mage](https://github.com/virajmavani/semi-auto-image-annotation-tool) ⭐ 596 | 🐛 10 | 🌐 Python | 📅 2026-04-18 - A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model
 * [LOST](https://github.com/l3p-cv/lost) ⭐ 581 | 🐛 29 | 🌐 Python | 📅 2026-11-25 - Design your own smart Image Annotation process in a web-based environment
@@ -37,9 +37,9 @@ A curated list of awesome data labeling tools
 
 #### Audio
 
-* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,481 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-24 - Simple annotations tool, check the example.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,483 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-24 - Simple annotations tool, check the example.
 * [peak.js](https://github.com/bbc/peaks.js) ⭐ 3,413 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-21 - Browser-based audio waveform visualisation and UI component for interacting with audio waveforms, developed by BBC UK.
-* [Praat](https://github.com/praat/praat) ⭐ 2,038 | 🐛 64 | 🌐 C | 📅 2026-11-25 - Doing Phonetics By Computer
+* [Praat](https://github.com/praat/praat) ⭐ 2,038 | 🐛 64 | 🌐 C | 📅 2026-11-26 - Doing Phonetics By Computer
 * [audio-annotator](https://github.com/CrowdCurio/audio-annotator) ⭐ 468 | 🐛 10 | 🌐 JavaScript | 📅 2020-03-07 - A JavaScript interface for annotating and labeling audio files.
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize, and annotate your audio files
 * [audio-labeler](https://github.com/hipstas/audio-labeler) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2017-08-28 - An in-browser app for labeling audio clips at random, using Docker and Flask.
@@ -59,7 +59,7 @@ A curated list of awesome data labeling tools
 
 #### 3D
 
-* [webKnossos](https://github.com/scalableminds/webknossos) ⭐ 188 | 🐛 307 | 🌐 TypeScript | 📅 2026-11-25 - webKnossos is an open-source web-based tool for visualizing, annotating, and sharing large 3D image datasets. It features fast 3D data browsing, skeleton (line-segment) annotations, segmentation and proof-reading tools, mesh visualization, and collaboration features. The public instance [webknossos.org](https://webknossos.org) hosts a collection of published datasets and can be used without a local setup.
+* [webKnossos](https://github.com/scalableminds/webknossos) ⭐ 188 | 🐛 305 | 🌐 TypeScript | 📅 2026-11-26 - webKnossos is an open-source web-based tool for visualizing, annotating, and sharing large 3D image datasets. It features fast 3D data browsing, skeleton (line-segment) annotations, segmentation and proof-reading tools, mesh visualization, and collaboration features. The public instance [webknossos.org](https://webknossos.org) hosts a collection of published datasets and can be used without a local setup.
 * [KNOSSOS](https://github.com/knossos-project/knossos) ⭐ 77 | 🐛 130 | 🌐 C++ | 📅 2026-10-06 - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
 
 #### Lidar
@@ -68,9 +68,9 @@ A curated list of awesome data labeling tools
 
 #### MultiDomain
 
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,767 | 🐛 988 | 🌐 TypeScript | 📅 2026-11-25 - Label Studio is a configurable data annotation tool that works with different data types
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,774 | 🐛 989 | 🌐 TypeScript | 📅 2026-11-26 - Label Studio is a configurable data annotation tool that works with different data types
 * [Dataturks](https://dataturks.com/) - Dataturks support E2E tagging of data items like video, images (classification, segmentation and labelling) and text (full length document annotations for PDF, Doc, Text etc) for ML projects.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
